@@ -1,0 +1,4 @@
+baseurl = "https://bananaf.fish/"
+languageCode = "en-us"
+title = "bananafish blag"
+theme = "new.bfish.blag"
