@@ -15,7 +15,7 @@ So I ran the next update, this would bring it up to 4.4 I think kitkat?  It down
 
 It finally rebooted into a android screen that said "No Command" and continued to just reboot into that.  
 
-![](http://bananafish.in/files/img/blog/nocommand.jpg)
+![](https://banana.fish/files/img/blog/nocommand.jpg)
 
 UGH! I thought I finally just killed my Nexus 7.  Some quick googling showed that other people had a similar problem so I  went to work to fix it.
 
@@ -38,7 +38,7 @@ Now with the tools installed I need to get the factory image to restore my Nexus
 The first mistake I made was I grabbed the 4.4 factory image from [here](https://developers.google.com/android/nexus/images#nakasi).
 After downloading and untarring I put my Nexus in fastboot mode (power and volume down) 
 
-![](http://bananafish.in/files/img/blog/fastboot.jpeg)
+![](https://banana.fish/files/img/blog/fastboot.jpeg)
 
 I plugged in my Nexus and ran
 

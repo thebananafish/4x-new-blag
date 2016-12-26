@@ -18,7 +18,7 @@ A couple things to keep in mind:
 ####First
 I started with a fresh install of Debian 7 (you can get the .iso [here](http://cdimage.debian.org/debian-cd/7.3.0/amd64/iso-cd/debian-7.3.0-amd64-netinst.iso))
 Run through the installer until you get to the "tasksel" part that looks like below:
-![](http://bananafish.in/files/img/blog/tasksel.png)
+![](https://banana.fish/files/img/blog/tasksel.png)
 
 And make certain that only **SSH server** and **Standard system utilities** **AND Debian desktop environment** are checked.
 

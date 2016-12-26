@@ -15,7 +15,7 @@ I had to migrate/backup/restore/bork the mail.installgentoo server today.
 
 and it all went, without a hitch
 
-![](http://bananafish.in/files/img/blog/mission.jpg)
+![](https://banana.fish/files/img/blog/mission.jpg)
 
 
 hopefully once these classes get under control, I can post more.

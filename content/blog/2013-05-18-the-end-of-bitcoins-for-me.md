@@ -17,7 +17,7 @@ Good news is my office is a lot quieter now, and my electricity bill will be sub
 
 And all I am is sad, that I no longer will have that fun extra income of bitcoins nor an ATI card.  
 
-![](http://bananafish.in/files/img/blog/radesons.jpg)
+![](https://banana.fish/files/img/blog/radesons.jpg)
 
 I hope I don't end up regretting going nvidia, my last experience with EVGA was less than nice.
 

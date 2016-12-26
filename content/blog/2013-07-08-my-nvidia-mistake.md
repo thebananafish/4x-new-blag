@@ -13,13 +13,13 @@ Anyway tl;dr I stopped mining and after years of using ATI/AMD graphics card (ha
 
 I should also say I did have an nvidia card about 5 - 6 years ago, which was the first and last NVIDIA card I swore I would purchase.  After it melted down on me.  This was a 7300GT.
 
-![](http://bananafish.in/files/img/blog/7300.jpeg)
+![](https://banana.fish/files/img/blog/7300.jpeg)
 
 And at the time EVGA basically gave me such a run around that it was too difficult/not worth replacing.
 
 Well it seems I forgot mistake.  After not much more than 2 months of use my EVGA 660Ti FTW edition card died.
 
-![](http://bananafish.in/files/img/blog/660tiftw.jpeg)
+![](https://banana.fish/files/img/blog/660tiftw.jpeg)
 
 About two days ago, after hearing of the origin password incident I decided to install origin back on my computer, because hey I forgot I had BF3.  Anyway I noticed my computer started acting strange locking up etc. etc.  Anyway I let the huge download go over night and returned to the computer in the morning.  
 

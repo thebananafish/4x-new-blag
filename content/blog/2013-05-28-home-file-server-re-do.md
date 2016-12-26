@@ -35,5 +35,5 @@ All I had left to do was finish tweaking my samba config (for the network shares
 
 I am very pleased with the new setup and even more pleased with ZFS.  
 
-![](http://bananafish.in/files/img/blog/file-work1.jpg)
+![](https://banana.fish/files/img/blog/file-work1.jpg)
 

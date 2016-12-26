@@ -10,7 +10,7 @@ Okay so with recent events happening in the realm of cryptocurrencies I have tak
 I have chosen to get back into mining with Litecoins and dogecoins.  These coins value-wise seem to be the next most promising coin under bitcoins.  And currently are going for ~30USD/1LTC.
 
 Anyway since I had stopped I had taken my dedicated mining rig and set it up as my local KVM virtualization server.  A few nights ago I threw in my two remaining 5850s (sold the rest) and went about trying to get back into this game.
-![](http://bananafish.in/files/img/blog/mining_again.jpg)
+![](https://banana.fish/files/img/blog/mining_again.jpg)
 
 In total it took about 6 hours trying to get drivers and mining to work in Debian7.  I was pretty adamant about sticking with Debian as I really wanted to keep my virtual machines as they are.  
 

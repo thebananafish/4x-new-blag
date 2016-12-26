@@ -15,7 +15,7 @@ Well I do not really have a good answer for that, 1.  I like Sun stuff. 2.  I ha
 
 I picked this bad boy up off ebay for ~$60.  I consider that a steal, after checking out the specs.
 
-![](http://bananafish.in/files/img/blog/ultra20-1.jpg)
+![](https://banana.fish/files/img/blog/ultra20-1.jpg)
 
 * An AMD Opteron Processor - Not sure on the speed yet.
 * 1 Gb of DDR Ram - this is kind of the bummer, I need to find some more
@@ -24,7 +24,7 @@ I picked this bad boy up off ebay for ~$60.  I consider that a steal, after chec
 * 1 80Gb SATA HDD - meh, but! this chassis came with a SATA backplane for easy hotswap.
 
 
-![](http://bananafish.in/files/img/blog/ultra20-2.jpg)
+![](https://banana.fish/files/img/blog/ultra20-2.jpg)
 
 So what am I going to do with this? Not really sure yet, I originally just wanted the chassis, but the parts this came with are pretty decent for yet another home server.
 

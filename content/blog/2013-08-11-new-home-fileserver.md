@@ -12,7 +12,7 @@ I thought it would be fun to write a little article and post some pictures regar
 Background & Issues
 First off this server was starting to show its age, I built this originally as a freenas box in 2009 with just a few drives and a cheap intel CeleronD and 512Mb of RAM.  I kept upgrading it and adding drives, ram, and cheap sata addon cards until it became what you see below...
 
-![](http://bananafish.in/files/img/blog/oldfs-1.jpg)
+![](https://banana.fish/files/img/blog/oldfs-1.jpg)
 
 Over the years this server ran FreeNAS, Debian, and FreeBSD.  It was always purely a fileserver as I used other servers to run other things.  
 
@@ -41,13 +41,13 @@ Finished product
 
 Photos of the finished server "move".  All I had to do was move out the old motherboard and drop in the new one. Was easy and I know its a bit messy but maybe one day I will get in there and clean it up a bit more.
 
-![](http://bananafish.in/files/img/blog/newfs-1.jpg)
-![](http://bananafish.in/files/img/blog/newfs-2.jpg)
-![](http://bananafish.in/files/img/blog/newfs-3.jpg)
-![](http://bananafish.in/files/img/blog/newfs-4.jpg)
-![](http://bananafish.in/files/img/blog/newfs-5.jpg)
-![](http://bananafish.in/files/img/blog/newfs-6.jpg)
-![](http://bananafish.in/files/img/blog/newfs-7.jpg)
+![](https://banana.fish/files/img/blog/newfs-1.jpg)
+![](https://banana.fish/files/img/blog/newfs-2.jpg)
+![](https://banana.fish/files/img/blog/newfs-3.jpg)
+![](https://banana.fish/files/img/blog/newfs-4.jpg)
+![](https://banana.fish/files/img/blog/newfs-5.jpg)
+![](https://banana.fish/files/img/blog/newfs-6.jpg)
+![](https://banana.fish/files/img/blog/newfs-7.jpg)
 
 All I had to do was install FreeBSD 9.1 to the new flash drive I bought, copy over my configs and install samba.
 
