@@ -1,4 +1,4 @@
-baseurl = "https://banana.fish/"
+baseurl = "https://blag.banana.fish/"
 languageCode = "en-us"
 title = "bananafish blag"
 theme = "new.bfish.blag"
